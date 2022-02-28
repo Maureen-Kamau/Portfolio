@@ -1,4 +1,4 @@
-# {My portfolio}
+# My portfolio
 #### {This is what shows my work}, {28/02/2022}
 #### By **{List of contributors}**
 ## Description
