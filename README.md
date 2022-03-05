@@ -1,8 +1,13 @@
 # My portfolio
+<<<<<<< HEAD
 #### This is what shows my work, 28/02/2022
 #### By **{List of contributors}**
+=======
+#### This is what shows my work,28/02/2022
+#### By Maureen Kamau
+>>>>>>> bdce05464c459d69756b36bfe46a86199cb3d519
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This landing page describes my work and what I have learned so far in the fast of programming. 
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
